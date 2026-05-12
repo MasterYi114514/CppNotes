@@ -66,7 +66,7 @@ int main()
 }
 ```
 
-#  if-else-if 结构
+#  3. if-else-if 结构
 
 ```cpp
 #include <iostream>
